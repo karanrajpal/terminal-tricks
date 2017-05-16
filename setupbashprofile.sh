@@ -12,4 +12,4 @@ alias ga="git add"
 alias gco="git checkout"' >> ~/.bash_profile
 
 
-echo 'Success. Enjoy your terminal life'
+echo 'Success. Restart your terminal.'
